@@ -21,6 +21,6 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Moiz-16&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ansshameed&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=Moiz-16&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ansshameed&icon=2&color=1)](https://visitcount.itsvg.in)
