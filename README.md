@@ -2,7 +2,7 @@
 
 🌟 Proactive and driven student aspiring to become a developer.  
 
-🌟 Previously interned a large financial institution as a developer on the equities trading floor. 
+🌟 Previously interned at a large financial institution as a developer on the equities trading floor. 
 
 🌟 Pursuing a Bachelors in Computer Science at University of Bristol. 
 
