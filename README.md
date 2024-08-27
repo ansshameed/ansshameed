@@ -1,4 +1,4 @@
-## Hi, I'm Anss Saleem! 👋🏼
+## Hi, I'm Anss Hameed! 👋🏼
 
 🌟 Proactive and driven student aspiring to become a developer.  
 
