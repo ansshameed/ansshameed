@@ -1,12 +1,10 @@
 ## Hi, I'm Anss Hameed! 👋🏼
 
-🌟 Proactive and driven student aspiring to become a developer.  
+🌟 Proactive student currently pursuing a Bachelors in Computer Science at University of Bristol.
 
-🌟 Pursuing a Bachelors in Computer Science at University of Bristol.
+🌟 Previously interned at a large financial institution as a developer on the equities trading floor facilitating software for OMS (Order Management System). 
 
-🌟 Previously interned at a large financial institution as a developer on the equities trading floor facilitating software for electronic traders. 
-
-🌟 Ask me about anything and everything, I would love to connect! 
+🌟 Currently developing quant projects to better understand trading. 
 
 🌟 Check out my website portfolio to find out more: www.ansshameed.com 
 
