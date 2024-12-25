@@ -4,7 +4,7 @@
 
 🌟 Previously interned at a large financial institution as a developer on the equities trading floor facilitating software for OMS (Order Management System). 
 
-🌟 Currently developing quant projects to better understand trading strategies. 
+🌟 Currently developing quant projects to better understand trading strategies - check out my most recent one comparing Black Scholes and Monte Carlo Options pricing. 
 
 🌟 Check out my website portfolio to find out more: www.ansshameed.com 
 
