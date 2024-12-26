@@ -6,7 +6,7 @@
 
 🌟 Currently developing algorithmic trading strategies to better understand quantitative finance. 
 
-🌟 Currently optimising agent-based trading simulation to include technical indicators. 
+🌟 Currently optimising a distributed agent-based arbitrage trading simulation to include technical indicators. 
 
 🌟 Check out my most recent project comparing Black Scholes and Monte Carlo Options pricing!
 
