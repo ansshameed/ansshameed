@@ -1,6 +1,6 @@
 ## Hi, I'm Anss Hameed! 👋🏼
 
-🌟 Proactive student currently pursuing a Bachelors in Computer Science at University of Bristol.
+🌟 Proactive student currently pursuing a Bachelors in Computer Science at University of Bristol with a passion for Quantitative Finance. 
 
 🌟 Previously interned at Bank of America on the equities trading floor facilitating software for OMS (Order Management System). 
 
