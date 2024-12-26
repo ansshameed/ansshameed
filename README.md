@@ -2,7 +2,7 @@
 
 🌟 Proactive student currently pursuing a Bachelors in Computer Science at University of Bristol.
 
-🌟 Previously interned at a large financial institution as a developer on the equities trading floor facilitating software for OMS (Order Management System). 
+🌟 Previously interned at Bank of America on the equities trading floor facilitating software for OMS (Order Management System). 
 
 🌟 Currently developing algorithmic trading strategies to better understand quantitative finance. 
 
