@@ -4,7 +4,7 @@
 
 🌟 Previously interned at Bank of America on the equities trading floor facilitating software for OMS (Order Management System). 
 
-🌟 Currently developing algorithmic trading strategies to better understand quantitative finance. 
+🌟 Currently developing algorithmic trading strategies in Python and C++ to better understand quantitative finance. 
 
 🌟 Currently optimising a distributed agent-based arbitrage trading simulation to include technical indicators. 
 
