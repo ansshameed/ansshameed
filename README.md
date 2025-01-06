@@ -8,7 +8,7 @@
 
 🌟 Currently optimising a distributed agent-based arbitrage trading simulation to include technical indicators. 
 
-🌟 Check out my most recent project comparing Black Scholes and Monte Carlo Options pricing!
+🌟 Check out my most recent projects comparing Black Scholes and Monte Carlo Options pricing and a Pairs Trading Strategy!
 
 🌟 Check out my website portfolio to find out more: www.ansshameed.com 
 
